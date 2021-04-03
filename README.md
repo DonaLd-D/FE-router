@@ -1,5 +1,5 @@
 # frontend_router
 
-1 hash
+1 hash  hashchange事件
 
-2 history
+2 history  popstate事件
